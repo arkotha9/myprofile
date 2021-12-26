@@ -1,6 +1,5 @@
-# ![A](core_tech (2).png)
 ### Hola 👋
-I am Ananya Reddy, currently a final year undergraduate student in Mechanical Engineering, who is into tech. I am new to the open source community. Looking forward for a great experience.
+I am **Ananya Reddy**, currently a final year undergraduate student in Mechanical Engineering, who is into tech. I am new to the open source community. Looking forward for a great experience.
 - 🔭 I’m currently working on knowledge graphs in Natural Language Processing.
 - 🌱 I’m currently learning MLOps. 
 - 👯 I’m looking to collaborate on any projects on not only MLOps, but also on app dev, robotics or product design (Here's my [portfolio](https://reddyananya9.github.io/)). 
