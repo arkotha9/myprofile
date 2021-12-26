@@ -7,7 +7,7 @@ I am Ananya Reddy, currently a final year undergraduate student in Mechanical En
 - 📫 How to reach me: [Linkedin @AnanyaReddy](https://www.linkedin.com/in/ananyareddy9/)
 - 😄 Pronouns: She/her
 - ⚡ Fun fact 1: I love anime and Kpop. I watch anime only in Japanese --- Warning!! No English Dubs :)
-- ⚡ Fun fact 2: I am all for sudoku puzzles 😄.
+- ⚡ Fun fact 2: I am all for sudoku 😄.
 
 
 
