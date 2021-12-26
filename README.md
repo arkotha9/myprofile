@@ -1,5 +1,5 @@
-# ![](/images/core.jpg)
-### Hola 👋
+#     ![](/images/core.jpg)
+## Hola 👋
 I am **Ananya Reddy**, currently a final year undergraduate student in Mechanical Engineering, who is into tech. I am new to the open source community. Looking forward for a great experience.
 - 🔭 I’m currently working on knowledge graphs in Natural Language Processing.
 - 🌱 I’m currently learning MLOps. 
